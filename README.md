@@ -1,2 +1,2 @@
-# B9211_CBR
-compuing for business researcg
+# B9211
+compuing for business research
